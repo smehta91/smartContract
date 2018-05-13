@@ -6,3 +6,5 @@
 * `deploy` function on contract object tells web3 to deploy the copy of contract on the network. It takes in an object such as. 
 	```{data: bytecode, arguments: [arg1, arg2]}```
 * `deploy` function doesnot actually deploy contract. It creates an object to deploy after using `send` function
+
+* Inbox contract deployed at `0x73A22D84906c6074593388744bc8C95289f67833`
